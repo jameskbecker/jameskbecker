@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is James, I'm a full-stack developer specialising in frontend development and have recently completed a degree at KU London. I have been programming for over 4 years, with a goal to use my skills to enhance other people's lives.
+
 <!--
 **jameskbecker/jameskbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
