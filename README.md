@@ -3,7 +3,7 @@
 My name is James, I'm a full-stack developer specialising in frontend development and graduate of [Kingston University London](https://www.kingston.ac.uk/). I strive to create and deliver amazing user experiences with my passion for technology.
 
 ![Your Repository's Stats](
-  https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=ffffff&text_color=e6e6e6&icon_color=f2f2f2&border_radius=1rem&hide_border=true
+ https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=FFFFFF&text_color=F2DADE&icon_color=F2DADE&border_radius=1rem&hide_border=true
 )
 
 <!--
