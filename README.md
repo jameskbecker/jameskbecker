@@ -2,7 +2,9 @@
 
 My name is James, I'm a full-stack developer specialising in frontend development and graduate of [Kingston University London](https://www.kingston.ac.uk/). I strive to create and deliver amazing user experiences with my passion for technology.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&hide_border=true)
+![Your Repository's Stats](
+  https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=ffffff&text_color=e6e6e6&icon_color=f2f2f2&border_radius=1rem
+)
 
 <!--
 **jameskbecker/jameskbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
