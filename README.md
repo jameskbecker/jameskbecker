@@ -19,7 +19,7 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 
 <img align="left" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" width="30px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />=
+<img align="left" width="30px" style="filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img align="left" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
