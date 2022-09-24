@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<style>
+  * {
+    --color-accent-fg: #dc5970 !important;
+  }
+</style>
+
 My name is James, I'm a full-stack developer specialising in frontend development and graduate of <a href="https://www.kingston.ac.uk/" style="color: #dc5970 !important;">Kingston University London</a>. I strive to create and deliver amazing user experiences with my passion for technology.
 
 ![Your Repository's Stats](
