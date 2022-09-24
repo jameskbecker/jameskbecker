@@ -29,7 +29,6 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 # 
 
 
-### Stats
 ![Your Repository's Stats](
  https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=FFFFFF&text_color=F2DADE&icon_color=F2DADE&border_radius=1rem&hide_border=true
 )
