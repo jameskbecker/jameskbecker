@@ -31,6 +31,14 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
   />
 ](https://nextjs.org/)
 [
+<img
+    src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
+    alt="Styled Components"
+    align="left"
+    width="30px" 
+  />
+](https://www.styled-components.com/)
+[
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
     alt="Node.js" 
@@ -38,14 +46,6 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
     width="30px"  
   />
 ](https://nodejs.org/)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    alt="Figma"
-    align="left"
-    width="30px"
-  />
-](https://www.figma.com/)
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
@@ -56,12 +56,12 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 ](https://redux.js.org/)
 [
 <img
-    src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-    alt="Styled Components"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    alt="Figma"
     align="left"
-    width="30px" 
+    width="30px"
   />
-](https://www.styled-components.com/)
+](https://www.figma.com/)
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
