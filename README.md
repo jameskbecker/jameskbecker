@@ -139,12 +139,12 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 
 #
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=FFFFFF&text_color=F2DADE&icon_color=F2DADE&border_radius=1rem&hide_border=true)
+<p align="left">
 <a href="https://www.jameskbecker.com/">
-<img
+    <img
       src="https://github.com/jameskbecker/jameskbecker/blob/main/portfolio-button.svg"
       alt="Portfolio Button"
-      align="right"
+      align="left"
     />
 </a>
 
@@ -152,9 +152,16 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
   <img
       src="https://github.com/jameskbecker/jameskbecker/blob/main/linkedin-button.svg"
       alt="Linked-in Button"
-      align="right"
+      align="left"
     />
 </a>
+</p>
+
+<br />
+
+#
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=FFFFFF&text_color=F2DADE&icon_color=F2DADE&border_radius=1rem&hide_border=true)
 
 <!--
 **jameskbecker/jameskbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
