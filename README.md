@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is James, I'm a full-stack developer specialising in frontend development and graduate of [Kingston University London](https://www.kingston.ac.uk/). I strive to create and deliver amazing user experiences with my passion for technology.
 
 ---
