@@ -139,7 +139,7 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 
 #
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=745EFF&title_color=FFFFFF&text_color=F4F2FF&icon_color=F4F2FF&border_radius=1rem&hide_border=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=DC5970&title_color=FFFFFF&text_color=F2DADE&icon_color=F2DADE&border_radius=1rem&hide_border=true)
 
 <!--
 **jameskbecker/jameskbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
