@@ -23,6 +23,14 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
   />
 ](https://reactjs.org/)
 [
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+    alt="Redux"
+    align="left"
+    width="30px" 
+  />
+](https://redux.js.org/)
+[
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     alt="Next.js" 
@@ -46,14 +54,6 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
     width="30px"  
   />
 ](https://nodejs.org/)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-    alt="Redux"
-    align="left"
-    width="30px" 
-  />
-](https://redux.js.org/)
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
