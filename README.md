@@ -85,7 +85,7 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
     align="left"
     width="30px"
   />
-](https://www.typescriptlang.org/)
+](https://www.javascript.com/)
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
