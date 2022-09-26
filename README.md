@@ -140,18 +140,21 @@ My name is James, I'm a full-stack developer specialising in frontend developmen
 #
 
 <p align="left">
-  [<img
-      src="portfolio-button.svg"
-      alt="Portfolio Button"
-      align="left"
-    />](https://www.jameskbecker.com/)
+  <a href="https://www.jameskbecker.com/">
+      <img
+        src="portfolio-button.svg"
+        alt="Portfolio Button"
+        align="left"
+      />
+  </a>
 
-[<img
-    src="linkedin-button.svg"
-    alt="Linked-in Button"
-    align="left"
-  />](https://www.linkedin.com/in/jameskbecker/)
-
+  <a href="https://www.linkedin.com/in/jameskbecker/">
+    <img
+        src="linkedin-button.svg"
+        alt="Linked-in Button"
+        align="left"
+      />
+  </a>
 </p>
 
 <br />
