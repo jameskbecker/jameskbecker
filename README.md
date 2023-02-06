@@ -23,6 +23,14 @@ My name is James, I'm a software engineer specialising in frontend development a
   />
 ](https://reactjs.org/)
 [
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    alt="Next.js" 
+    align="left"
+    width="30px" 
+  />
+](https://nextjs.org/)
+[
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     alt="Redux"
@@ -32,12 +40,12 @@ My name is James, I'm a software engineer specialising in frontend development a
 ](https://redux.js.org/)
 [
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    alt="Next.js" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
+    alt="Storybook"
     align="left"
-    width="30px" 
-  />
-](https://nextjs.org/)
+    width="30px"   
+/>
+](https://storybook.js.org/)
 [
 <img
     src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
@@ -94,14 +102,6 @@ My name is James, I'm a software engineer specialising in frontend development a
     width="30px" 
   />
 ](https://www.electronjs.org/)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-    alt="Git"
-    align="left"
-    width="30px"
-  />
-](https://git-scm.com/)
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
