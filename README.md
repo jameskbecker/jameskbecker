@@ -37,7 +37,7 @@ My name is James, I'm a software engineer specialising in frontend development a
     align="left"
     width="30px" 
   />
-](https://redux.js.org/)
+](https://redux.js.org/) 
 [
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
