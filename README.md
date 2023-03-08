@@ -30,6 +30,7 @@ My name is James, I'm a software engineer specialising in frontend development a
     width="30px" 
   />
 ](https://nextjs.org/)
+
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
