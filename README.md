@@ -23,6 +23,42 @@ My name is James, I'm a software engineer specialising in frontend development a
   />
 ](https://www.javascript.com/)
 [
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
+    alt="Go"
+    align="left"
+    width="30px" 
+  />
+](https://go.dev/)
+
+[
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+    alt="HTML 5"
+    align="left"
+    width="30px"
+  />
+](https://en.wikipedia.org/wiki/HTML5)
+[
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+    alt="CSS"
+    align="left"
+    width="30px"
+  />
+](https://en.wikipedia.org/wiki/CSS)
+[
+<img
+    src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png"
+    alt="Sass"
+    align="left"
+    width="30px"
+  />
+](https://sass-lang.com/)
+
+<br/><br/>
+
+[
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
     alt="React" 
@@ -46,7 +82,7 @@ My name is James, I'm a software engineer specialising in frontend development a
     align="left"
     width="30px" 
   />
-](https://redux.js.org/) 
+](https://redux.js.org/)
 [
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
@@ -79,22 +115,8 @@ My name is James, I'm a software engineer specialising in frontend development a
     width="30px"
   />
 ](https://www.figma.com/)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-    alt="HTML 5"
-    align="left"
-    width="30px"
-  />
-](https://en.wikipedia.org/wiki/HTML5)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-    alt="CSS"
-    align="left"
-    width="30px"
-  />
-](https://en.wikipedia.org/wiki/CSS)
+
+
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
@@ -127,14 +149,6 @@ My name is James, I'm a software engineer specialising in frontend development a
     width="30px" 
   />
 ](https://www.mongodb.com/)
-[
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
-    alt="Go"
-    align="left"
-    width="30px" 
-  />
-](https://go.dev/)
 
 <br />
 
