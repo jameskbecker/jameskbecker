@@ -5,7 +5,6 @@ My name is James, I'm a fullstack software engineer specialising in frontend dev
 --- 
  
 ### My Tech Stack
-
 [
 <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
