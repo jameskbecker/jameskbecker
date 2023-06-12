@@ -175,7 +175,7 @@ My name is James, I'm a fullstack software engineer specialising in frontend dev
 
 #
 
-![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=263793&title_color=FFFFFF&text_color=DADEF2&icon_color=DADEF2&border_radius=1rem&hide_border=true)
+![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jameskbecker&show_icons=true&bg_color=e9d5ff&title_color=a855f7&&text_color=a855f7&&icon_color=a855f7&border_width=2&border_radius=1rem&border_color=a855f7)
 
 <!--
 **jameskbecker/jameskbecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
