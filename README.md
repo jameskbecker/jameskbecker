@@ -26,7 +26,7 @@ My name is James, I'm a fullstack software engineer specialising in frontend dev
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
     alt="Go"
     align="left"
-    width="30px" 
+    height="30px" 
   />
 ](https://go.dev/)
 
@@ -48,10 +48,10 @@ My name is James, I'm a fullstack software engineer specialising in frontend dev
 ](https://en.wikipedia.org/wiki/CSS)
 [
 <img
-    src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png"
+    src="https://sass-lang.com/assets/img/logos/logo.svg"
     alt="Sass"
     align="left"
-    width="30px"
+    height="30px"
   />
 ](https://sass-lang.com/)
 
